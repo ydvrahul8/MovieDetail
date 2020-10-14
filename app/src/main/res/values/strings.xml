@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoviesApplication</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="geners">Geners</string>
+    <string name="loading">Loading...</string>
+    <string name="sort_by">Sort By</string>
+    <string name="description">Description</string>
+    <string-array name="sort_by">
+        <item >popularity.asc</item>
+        <item >popularity.desc</item>
+        <item >release_date.asc</item>
+        <item >release_date.desc</item>
+        <item >revenue.asc</item>
+        <item >revenue.desc</item>
+        <item >vote_average.asc</item>
+        <item >vote_average.desc</item>
+        <item >vote_count.asc</item>
+        <item >vote_count.desc</item>
+    </string-array>
+</resources>
